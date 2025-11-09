@@ -1,6 +1,14 @@
 # RT
 portfolio data
 
+
+<p align="center">
+  <img src="logo/assets/images/raoufaia.jpeg" alt="Photo Aïssata Raoufa" width="150"/>
+</p>
+
+
+
+
 # 👩🏽‍💻 Aïssata Raoufa Touré  
 
 **Data Analyst | Orange Côte d’Ivoire | Passionnée de Data & Stratégie**
