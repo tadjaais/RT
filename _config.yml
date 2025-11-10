@@ -1,6 +1,9 @@
 title: "Aïssata Raoufa Touré"
 logo: "img/raoufaia.jpeg" # chemin vers photo de profil
 description: "Portfolio Data Analyst | Orange Côte d’Ivoire | Passionnée de Data & Stratégie"
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
 lang: fr
+github:
+  is_project_page: false
+
