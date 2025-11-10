@@ -6,6 +6,3 @@ theme: jekyll-theme-minimal
 lang: fr
 github:
   is_project_page: false
-
-include:
-  - assets/css/style.css
