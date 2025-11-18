@@ -32,7 +32,7 @@ Mon objectif : **transformer la donnée en décisions éclairées** et aider les
 
 ## 📊 Projets phares  
 
-### 🚀 [HELP International – Étude socio-économique](https://github.com/tadjaais/Projet-machine-learning.git)
+### 🚀 [Prévision des ventes Fibres – Étude de comparaison des modeleles de série temporelles VS Machine learning](https://github.com/tadjaais/Projet-machine-learning.git)
 > **Objectif :** Projet de prévision des ventes de services Fibre, comparant des modèles traditionnels de séries temporelles (ARIMA, Prophet) et des modèles de machine learning (Random Forest, XGBoost). Le projet inclut la préparation des données, l’entraînement des modèles, l’évaluation de leurs performances et l’identification du modèle le plus précis pour anticiper les ventes futures.  
 > **Techniques :** ARIMA,SARIMA,Random Forest, XGBoost,métriques RMSE (Root Mean Squared Error) et MAPE (Mean Absolute Percentage Error),Visualisation et comparaison des prévisions vs valeurs réelles  
 > **Résultat :** les modèles de machine laerning ont surpassé les modèles de séries temporelles en précision,la regression linéaire offrant des prévisions fiables des ventes de Fibre.  
