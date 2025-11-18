@@ -32,10 +32,10 @@ Mon objectif : **transformer la donnée en décisions éclairées** et aider les
 
 ## 📊 Projets phares  
 
-### 🚀 [HELP International – Étude socio-économique](https://github.com/ton-lien/help-international)
-> **Objectif :** Identifier des groupes de pays prioritaires pour orienter un budget de 10 M USD.  
-> **Techniques :** ACP + K-means sous R (FactoMineR, Factoshiny)  
-> **Résultat :** Segmentation pertinente des pays selon les indicateurs socio-économiques et sanitaires.  
+### 🚀 [HELP International – Étude socio-économique](https://github.com/tadjaais/Projet-machine-learning.git)
+> **Objectif :** Projet de prévision des ventes de services Fibre, comparant des modèles traditionnels de séries temporelles (ARIMA, Prophet) et des modèles de machine learning (Random Forest, XGBoost). Le projet inclut la préparation des données, l’entraînement des modèles, l’évaluation de leurs performances et l’identification du modèle le plus précis pour anticiper les ventes futures.  
+> **Techniques :** ARIMA,SARIMA,Random Forest, XGBoost,métriques RMSE (Root Mean Squared Error) et MAPE (Mean Absolute Percentage Error),Visualisation et comparaison des prévisions vs valeurs réelles  
+> **Résultat :** les modèles de machine laerning ont surpassé les modèles de séries temporelles en précision,la regression linéaire offrant des prévisions fiables des ventes de Fibre.  
 
 ---
 
@@ -83,7 +83,7 @@ Je cherche toujours à apprendre, à innover et à contribuer à des projets à 
 
 📧 **Email :** toureraoufa@gmail.com  
 🌐 **LinkedIn :** [Aïssata Raoufa Touré](https://www.linkedin.com/in/raoufa-tour%C3%A9) 
-💻 **GitHub :** [@RaoufaToure](https://github.com/RaoufaToure)  
+💻 **GitHub :** [@RaoufaToure](https://tadjaais.github.io/RT/) 
 
 ---
 
